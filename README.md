@@ -424,3 +424,11 @@ Now we have almost done with our react logic application, but we don't have any 
 For that we are creating a JSON file of Employee. For that, create a folder name FakeDB under App, the create "employeeTable.json".
 
 Now save the changes and check the browser, we are done with our first ReactJs application.
+
+#### References
+
+    https://reactjs.org/docs/getting-started.html
+    
+Please let me know if any one have any questions.
+
+Thanks.
