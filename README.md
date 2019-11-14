@@ -413,11 +413,12 @@ Now will add/create our own component,
           }
         }
 
-8) Now it's time to add routing. But before that we need to install a package for routing.
-react router:
+Now it's time to add routing. But before that we need to install a package for routing.
+
+###### react router:
    React router is a routing library built on top of the react which is used to create the routing in react apps
 
-    npm install --save react-router-dom
+    8) npm install --save react-router-dom
 
 Now we have almost done with our react logic application, but we don't have any DB to verify is valid a user is logged-in. 
 For that we are creating a JSON file of Employee. For that, create a folder name FakeDB under App, the create "employeeTable.json".
