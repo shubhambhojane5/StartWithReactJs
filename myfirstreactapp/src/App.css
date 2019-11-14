@@ -1,0 +1,127 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.login-box {
+  width: 360px;
+  margin: 7% auto;
+}
+
+.login-box-innerBox{
+  border: 1px solid skyblue;
+  padding: 20px;
+}
+
+.cancelForgotDiv{
+  background-color:#f1f1f1;
+  padding: 5px;
+}
+
+.Loginform {border: 3px solid #f1f1f1;}
+
+.logininput[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+.loginbutton {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+.loginbutton:hover {
+  opacity: 0.8;
+}
+
+.cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+}
+
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+}
+
+.loginimg.avatar {
+  width: 40%;
+  border-radius: 50%;
+}
+
+.container {
+  padding: 25px;
+}
+
+.loginspan.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+.navBtn{
+  margin:10px;
+}
+
+.table-componentCls{
+  width: 95%;
+  margin: 7% auto;
+}
+
+.up {
+  transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+  margin-left: 10px;
+}
+
+.down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  margin-left: 10px;
+}
+
+.arrowICls {
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+
+.pointerCls{
+  cursor: pointer;
+}
+
+
+/* Add emp details css */
+.inputBox{
+  width: 25% !important;
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+  .loginspan.psw {
+     display: block;
+     float: none;
+  }
+  .cancelbtn {
+     width: 100%;
+  }
+}

@@ -1,0 +1,13 @@
+[
+    {
+        "EmpId":1,
+        "Name":"Leticia Blake",
+        "Email":"LeticiaBlake@gmail.com",
+        "MobileNo":1234567891,
+        "Role":".NET Developer",
+        "Designation":"Software Engineer",
+        "ReportingManager":"Henry Phillips",
+        "DU":1,
+        "Password":"Password@sb01"
+    }
+]
