@@ -1,5 +1,5 @@
 # Start With ReactJs
-It's cover what is ReactJs and it's basic understanding which help's you to create/start with ReactJs application
+In this article will cover what is ReactJs and the basic understanding, which helps you to create/start with ReactJs application
 
 ###### ReactJs
 ReactJs is a javascript library which is used to build user interface or client side application. Its most powerful and majorly used library in current time.
